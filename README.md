@@ -36,7 +36,7 @@ The software offers two distinct themes, namely a dark theme and a light theme, 
 ## Requirements
 
 * python 3.10
-* webcame
+* Webcam
 * Active Internet connection
 
 ***
